@@ -1,5 +1,4 @@
 USE inventory_db;
-
 -- 1. DISPLAY ALL DATABASE TABLES
 
 SHOW TABLES;
